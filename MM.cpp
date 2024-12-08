@@ -108,7 +108,7 @@ int main() {
 	}
 
         int arrival_index = 1;	
-	while (currentTime <= 100000 || !exit_queue.empty()) {
+	while (currentTime <= 100000 || !exit_queue.empty() || !wait_queue.empty()) {
 		// Check for process arrivals starting from id 1 
 		// if process has arrived, push/show wait_queue
 		// else the process has not arrived, and the next while loop will check if that process has arrived
