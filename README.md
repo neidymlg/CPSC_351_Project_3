@@ -12,7 +12,7 @@
 * Section Number: 02
 
 # Programming Language
-* C Language
+* C++ Language
 
 # Running the Program
 **Step 1:**
