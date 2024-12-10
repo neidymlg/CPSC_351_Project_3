@@ -3,7 +3,7 @@
 * Email: neidymlg@csu.fullerton.edu
 * Section Number: 02
   
-**Doung Banh**
+**Duong Banh**
 * Email: Duong2021@csu.fullerton.edu
 * Section: 06
 
@@ -33,7 +33,7 @@ We will now check our files and select the newly created file named MM_output.tx
 **Neidy Malaga:**
 I contributed by creating the code. In addition, I finished the “Running the Program” section of the Design Document
 
-**Doung Banh:**
+**Duong Banh:**
 
 **Jaytee Okonkwo:**
 I contributed by creating the readme file, helping revise and edit code where necessary, and collaborated on the flow chart
