@@ -25,13 +25,15 @@ Since this is a cpp file, we need to compile using the g++. We will then run it,
 
 **Step 3:**
 Check Output 
-We will now check our files, and select the newly created file named MM_output.txt. This will show the full output and the turnaround time. 
+We will now check our files and select the newly created file named MM_output.txt. This will show the full output and the turnaround time. 
 
 
 # Member Contribution: 
 
 **Neidy Malaga:**
-I contributed by creating the code . In addition, I finished the “Running the Program” section of the Design Document
+I contributed by creating the code. In addition, I finished the “Running the Program” section of the Design Document
+
+**Doung Banh:**
 
 **Jaytee Okonkwo:**
-I contributed by creating the readme file, helping revise and edit code where necessary, and collaboarted on the flow chart
+I contributed by creating the readme file, helping revise and edit code where necessary, and collaborated on the flow chart
