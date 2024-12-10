@@ -14,7 +14,7 @@
 # Programming Language
 * C++ Language
 
-# Running the Program
+# How to Run The Program 
 **Step 1:**
 Download all files
 This includes downloading the MM.cpp and the in1.txt file. The in1.txt file must include the amount of processes, the id of the processes, the arrival times, the lifetimes, the number of memory we need to sum, and the memory sums.
