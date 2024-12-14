@@ -31,9 +31,10 @@ We will now check our files and select the newly created file named MM_output.tx
 # Member Contribution: 
 
 **Neidy Malaga:**
-I contributed by creating the code. In addition, I finished the “Running the Program” section of the Design Document
+ I contributed by creating the code and finishing the “Running the Program” section of the Design Document. 
 
 **Duong Banh:**
+I contributed to the document design setup and wrote a code explanation of the MM's work, with visual presentations such as Terminal screenshots. Cooperating and Revising code when necessary.
 
 **Jaytee Okonkwo:**
-I contributed by creating the readme file, helping revise and edit code where necessary, and collaborated on the flow chart
+I contributed by creating the readme file, helping revise and edit code when necessary, and collaborating on the flow chart.
